@@ -2,7 +2,9 @@
 #define _BINARY_TREES_H_
 
 #include <stddef.h>
+#include <stdio.h>
 #include <stdlib.h>
+#include <unistd.h>
 /**
  * struct binary_tree_s - Binary tree node
  *
@@ -25,7 +27,7 @@ typedef struct binary_tree_s avl_t;
 typedef struct binary_tree_s heap_t;
 
 // Start of  binary_tree_print.c file function prototypes
-void binary_tree_print(const binary_tree_t *tree);
+// void binary_tree_print(const binary_tree_t *tree);
 // End of binary_tree_print.c file function prototypes
 
 // task 0 file functions
