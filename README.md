@@ -1,5 +1,5 @@
 # C - Binary trees
-a binary tree is a k-ary k=2 tree data structure in which each node has at most two children, which are referred to as the left child and the right child.
+A binary tree is a k-ary k=2 tree data structure in which each node has at most two children, which are referred to as the left child and the right child.
 
 Learning Objectives
 At the end of this project, I am expected to be able to explain to anyone, without the help of Google:
