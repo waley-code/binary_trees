@@ -1,7 +1,7 @@
 # C - Binary trees
 A binary tree is a data structure in which each node has at most two children, which are referred to as the left child and the right child.
 
-Learning Objectives
+Learning Objectives 
 At the end of this project, I am expected to be able to explain to anyone, without the help of Google:
 
 - What is the difference between a binary tree and a Binary Search Tree
