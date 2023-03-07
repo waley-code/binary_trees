@@ -68,4 +68,4 @@ What are the average time complexities of those operations on an AVL Tree
 - Function that builds a Max Binary Heap tree from an array (Task in progress)
 - Function that extracts the root node of a Max Binary Heap (Task in progress)
 - Function that converts a Binary Max Heap to a sorted array of integers (Task in progress)
-What are the average time complexities of those operations on a Binary Heap
+- What are the average time complexities of those operations on a Binary Heap
