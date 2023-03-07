@@ -61,6 +61,7 @@ What are the average time complexities of those operations on a Binary Search Tr
 - Function that builds an AVL tree from an array
 - Function that removes a node from an AVL tree
 - Function that builds an AVL tree from an array
+
 What are the average time complexities of those operations on an AVL Tree
 - Function that checks if a binary tree is a valid Max Binary Heap (Task in progress)
 - Function that inserts a value in Max Binary Heap (Task in progress)
