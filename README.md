@@ -54,6 +54,7 @@ Tasks ✔️
 - Function that builds a Binary Search Tree from an array
 - Function that searches for a value in a Binary Search Tree
 - Function that removes a node from a Binary Search Tree
+
 What are the average time complexities of those operations on a Binary Search Tree
 - Function that checks if a binary tree is a valid AVL Tree
 - Function that inserts a value in an AVL Tree
